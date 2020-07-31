@@ -12,7 +12,11 @@ While the PSWG is focused on women and URM students, it is open to all. We try t
 # References
 
 Gurin, P, EL Dey, S Hurtado, and G Gurin (2002), Diversity and Higher Education: Theory and Impact on Educational Outcomes, Harvard Educational Review, 72(3): 330-366.
+
 Hurtado, S and D Carter (1997), Effects of College Transition and Perceptions of the Campus Racial Climate on Latino College Students’ Sense of Belonging, Sociology of Education, 70: 324-345.
+
 Noy, S and R Ray (2012), Graduate Students’ Perceptions of Their Advisors: Is There Systematic Disadvantage in Mentorship? Journal of Higher Education, 83: 876-914.
+
 Spalter-Roth, R, JH Shin, OV Mayo, and PE White (2013), The Impact of Cross-Race Mentoring for “Ideal” PhD Careers in Sociology, Sociological Spectrum, 33(6): 484-509.
+
 Vaquera, G (2007), Testing Theories of Doctoral Student Persistence at a Hispanic Serving Institution, Journal of College Student Retention, 9(3), 283-305.
